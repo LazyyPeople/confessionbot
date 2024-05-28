@@ -2,7 +2,7 @@
 title: 'Cara menggunakan confessionbot'
 date: '2024-05-28'
 tags: 'pemula'
-thumbnail: ''
+description: 'Bingung cara pake confession bot? sini mimin jelasin cara gunain nya'
 author: 'jeremy776'
 ---
 
